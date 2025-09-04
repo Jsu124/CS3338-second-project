@@ -1,0 +1,36 @@
+commit f1f2870c96bace2ae4f877f82f3e47d118f96267
+Merge: 4d6dbb3 7bd6556
+Author: jsu124 <jonathansu19376@gmail.com>
+Date:   Wed Sep 3 20:51:20 2025 -0700
+
+    resolved merge conflict
+
+commit 7bd65568d6c366256e8f89d10558d95510ac871c
+Author: jsu124 <jonathansu19376@gmail.com>
+Date:   Wed Sep 3 20:48:47 2025 -0700
+
+    added fav movie
+
+commit 4d6dbb3d13162a41b2261fc7353f4f24b3963c98
+Author: jsu124 <jonathansu19376@gmail.com>
+Date:   Wed Sep 3 20:45:39 2025 -0700
+
+    added fav food
+
+commit a2ae246831cd88607572763decd34a9abe98a475
+Author: jsu124 <jonathansu19376@gmail.com>
+Date:   Wed Sep 3 20:42:04 2025 -0700
+
+    commit README
+
+commit 29e5d057c28bdfa031bbdc5770dcaa0e3146f5e8
+Author: jsu124 <jonathansu19376@gmail.com>
+Date:   Wed Sep 3 20:37:01 2025 -0700
+
+    adding name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
